@@ -1,9 +1,9 @@
-##Portfolio-Reactjs 
-A Personal Portfolio template for developer/designers build with React.
+## Portfolio-Reactjs 
+- A Personal Portfolio template for developer/designers build with React.
 
-##Preview
+## Preview
 
-##How to use
+## How to use
 - Clone/Download the repo.
 ## `npm install'
 - first install npm
