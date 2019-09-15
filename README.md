@@ -2,6 +2,7 @@
 - A Personal Portfolio template for developer/designers build with React.
 
 ## Preview
+![](img/portfolio.png)
 
 ## How to use
 - Clone/Download the repo.
